@@ -323,8 +323,8 @@ class _WebLayoutScreenState extends State<WebLayoutScreen> {
                                 const SizedBox(height: 24),
 
                                 // Graph
-                                AspectRatio(
-                                  aspectRatio: 1,
+                                SizedBox(
+                                  height: 300,
                                   child: Padding(
                                     padding: const EdgeInsets.only(
                                       right: 18,
