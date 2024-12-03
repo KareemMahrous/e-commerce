@@ -1,0 +1,14 @@
+{
+    "@@locale": "ar",
+    "somethingWentWrongMsg": "عذراً، حدث خطأ ما!",
+    "subscribe": "اشترك",
+    "login": "تسجيل الدخول",
+    "register": "تسجيل",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "city": "المدينة",
+    "pleaseTryAgain": "يرجي المحاولة  مرة اخرى",
+    "password": "كلمة المرور",
+    "lang": "ع",
+    "fieldRequired": "هذا الحقل مطلوب"
+}

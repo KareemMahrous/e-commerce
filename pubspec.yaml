@@ -1,0 +1,53 @@
+name: ecommerce_demo
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #State management
+  bloc:
+  flutter_bloc:
+
+  #Dependency injection
+  get_it:
+
+  #Routing
+  go_router:
+
+  #Localization
+  flutter_localizations:
+    sdk: flutter
+
+  #Utils
+  dartz:
+  equatable:
+  json_annotation:
+  intl:
+
+  #UI
+  skeletonizer:
+  fl_chart:
+
+  #Testing
+  mockito:
+  bloc_test:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  json_serializable:
+  build_runner:
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/jsons/orders.json
